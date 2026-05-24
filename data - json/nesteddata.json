@@ -1,0 +1,190 @@
+[
+  {
+    "loan_id": "HL001",
+    "customer": {
+      "name": "Amit Sharma",
+      "age": 35,
+      "employment": {
+        "status": "Salaried",
+        "company": "Infosys",
+        "annual_income": 1200000
+      }
+    },
+    "loan_details": {
+      "amount": 5000000,
+      "interest_rate": 7.5,
+      "term_years": 20,
+      "status": "Approved"
+    },
+    "property": {
+      "location": "Mumbai",
+      "type": "Apartment",
+      "valuation": 6000000
+    }
+  },
+  {
+    "loan_id": "HL002",
+    "customer": {
+      "name": "Priya Nair",
+      "age": 42,
+      "employment": {
+        "status": "Self-Employed",
+        "business": "Boutique Owner",
+        "annual_income": 900000
+      }
+    },
+    "loan_details": {
+      "amount": 3500000,
+      "interest_rate": 8.2,
+      "term_years": 15,
+      "status": "Pending"
+    },
+    "property": {
+      "location": "Bangalore",
+      "type": "Villa",
+      "valuation": 4500000
+    }
+  },
+  {
+    "loan_id": "HL003",
+    "customer": {
+      "name": "Rahul Verma",
+      "age": 29,
+      "employment": {
+        "status": "Salaried",
+        "company": "TCS",
+        "annual_income": 800000
+      }
+    },
+    "loan_details": {
+      "amount": 2500000,
+      "interest_rate": 7.0,
+      "term_years": 10,
+      "status": "Rejected"
+    },
+    "property": {
+      "location": "Delhi",
+      "type": "Flat",
+      "valuation": 2700000
+    }
+  },
+  {
+    "loan_id": "HL004",
+    "customer": {
+      "name": "Sneha Kulkarni",
+      "age": 31,
+      "employment": {
+        "status": "Salaried",
+        "company": "Wipro",
+        "annual_income": 1100000
+      }
+    },
+    "loan_details": {
+      "amount": 4000000,
+      "interest_rate": 7.8,
+      "term_years": 18,
+      "status": "Approved"
+    },
+    "property": {
+      "location": "Pune",
+      "type": "Apartment",
+      "valuation": 4800000
+    }
+  },
+  {
+    "loan_id": "HL005",
+    "customer": {
+      "name": "Vikram Singh",
+      "age": 45,
+      "employment": {
+        "status": "Business Owner",
+        "business": "Logistics",
+        "annual_income": 1500000
+      }
+    },
+    "loan_details": {
+      "amount": 6000000,
+      "interest_rate": 8.5,
+      "term_years": 25,
+      "status": "Pending"
+    },
+    "property": {
+      "location": "Chennai",
+      "type": "Villa",
+      "valuation": 7000000
+    }
+  },
+  {
+    "loan_id": "HL006",
+    "customer": {
+      "name": "Meera Iyer",
+      "age": 38,
+      "employment": {
+        "status": "Salaried",
+        "company": "Accenture",
+        "annual_income": 950000
+      }
+    },
+    "loan_details": {
+      "amount": 3200000,
+      "interest_rate": 7.2,
+      "term_years": 12,
+      "status": "Approved"
+    },
+    "property": {
+      "location": "Hyderabad",
+      "type": "Apartment",
+      "valuation": 3700000
+    }
+  },
+  {
+    "loan_id": "HL007",
+    "customer": {
+      "name": "Arjun Patel",
+      "age": 27,
+      "employment": {
+        "status": "Salaried",
+        "company": "HDFC Bank",
+        "annual_income": 600000
+      }
+    },
+    "loan_details": {
+      "amount": 2800000,
+      "interest_rate": 7.9,
+      "term_years": 15,
+      "status": "Rejected"
+    },
+    "property": {
+      "location": "Ahmedabad",
+      "type": "Flat",
+      "valuation": 3000000
+    }
+  },
+  {
+    "loan_id": "HL008",
+    "customer": {
+      "name": "Kavita Joshi",
+      "age": 33,
+      "employment": {
+        "status": "Self-Employed",
+        "business": "Interior Designer",
+        "annual_income": 850000
+      }
+    },
+    "loan_details": {
+      "amount": 4500000,
+      "interest_rate": 7.6,
+      "term_years": 20,
+      "status": "Approved"
+    },
+    "property": {
+      "location": "Jaipur",
+      "type": "Apartment",
+      "valuation": 5000000
+    }
+  },
+  {
+    "loan_id": "HL009",
+    "customer": {
+      "name": "Suresh Reddy",
+      "
