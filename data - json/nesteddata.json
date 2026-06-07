@@ -15,7 +15,7 @@
     "loan_id": "HL002",
     "customer": {
       "name": "Priya Verma",
-      "age": 29,
+      "age": 30,
       "employment": {
         "status": "Salaried",
         "company": "TCS",
