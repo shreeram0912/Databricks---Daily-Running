@@ -1,0 +1,21 @@
+loan_id,name,age,status,company,annual_income
+HL001,Amit Sharma,35,Salaried,Infosys,1200000
+HL002,Priya Verma,29,Salaried,TCS,950000
+HL003,Rahul Gupta,42,Self-Employed,Gupta Traders,1800000
+HL004,Sneha Patil,31,Salaried,Wipro,1100000
+HL005,Vikram Singh,38,Salaried,HCL,1400000
+HL006,Anjali Mehta,27,Salaried,Accenture,850000
+HL007,Karan Joshi,45,Self-Employed,Joshi Enterprises,2200000
+HL008,Neha Kapoor,33,Salaried,Cognizant,1250000
+HL009,Rohit Nair,36,Salaried,Capgemini,1350000
+HL010,Pooja Desai,30,Salaried,Tech Mahindra,980000
+HL011,Arjun Reddy,41,Self-Employed,Reddy Constructions,2500000
+HL012,Meera Iyer,34,Salaried,IBM,1600000
+HL013,Sandeep Kumar,39,Salaried,Oracle,1750000
+HL014,Divya Shah,28,Salaried,Deloitte,900000
+HL015,Manoj Yadav,46,Self-Employed,Yadav Logistics,2100000
+HL016,Kavita Rao,32,Salaried,Amazon,1850000
+HL017,Nitin Agarwal,37,Salaried,Microsoft,2400000
+HL018,Shreya Bose,26,Salaried,EY,820000
+HL019,Deepak Mishra,43,Self-Employed,Mishra Foods,1950000
+HL020,Ritika Malhotra,31,Salaried,Google,2800000

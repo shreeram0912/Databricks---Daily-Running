@@ -1,0 +1,11 @@
+loan_id,customer_name,age,loan_amount,interest_rate,loan_term_years,property_location,loan_status
+HL001,Amit Sharma,35,5000000,7.5,20,Mumbai,Approved
+HL002,Priya Nair,42,3500000,8.2,15,Bangalore,Pending
+HL003,Rahul Verma,29,2500000,7,10,Delhi,Rejected
+HL004,Sneha Kulkarni,31,4000000,7.8,18,Pune,Approved
+HL005,Vikram Singh,45,6000000,8.5,25,Chennai,Pending
+HL006,Meera Iyer,38,3200000,7.2,12,Hyderabad,Approved
+HL007,Arjun Patel,27,2800000,7.9,15,Ahmedabad,Rejected
+HL008,Kavita Joshi,33,4500000,7.6,20,Jaipur,Approved
+HL009,Suresh Reddy,40,5500000,8.1,22,Kolkata,Pending
+HL010,Neha Gupta,30,3000000,7.3,12,Lucknow,Approved
