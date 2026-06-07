@@ -27,3 +27,7 @@ The pipeline fetches data from an API, validates it, and writes the results into
 * Failure → Email alert with error details.
 * Success → Confirmation that data has been ingested and written.
   <img width="1188" height="747" alt="image" src="https://github.com/user-attachments/assets/a694658e-ea28-424f-8b79-42d4f54610c1" />
+
+### Added: Incremental + SCD Type2
+  <img width="1667" height="776" alt="image" src="https://github.com/user-attachments/assets/3fb09659-ec27-45e6-9477-77b59b8c1b5d" />
+
