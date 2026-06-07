@@ -228,26 +228,27 @@
     }
   },
   {
-  "loan_id": "HL020",
-  "customer": {
-    "name": "Ritika Malhotra",
-    "age": 31,
-    "employment": {
-      "status": "Salaried",
-      "company": "Google",
-      "annual_income": 2800000
+    "loan_id": "HL020",
+    "customer": {
+      "name": "Ritika Malhotra",
+      "age": 31,
+      "employment": {
+        "status": "Salaried",
+        "company": "Google",
+        "annual_income": 2800000
+      }
+    }
+  },
+  {
+    "loan_id": "HL021",
+    "customer": {
+      "name": "Shreeram",
+      "age": 21,
+      "employment": {
+        "status": "Salaried",
+        "company": "ABC",
+        "annual_income": 500000000
+      }
     }
   }
-},
-{
-  "loan_id": "HL021",
-  "customer": {
-    "name": "Shreeram",
-    "age": 21,
-    "employment": {
-      "status": "Salaried",
-      "company": "ABC",
-      "annual_income": 500000000
-    }
-  }
-}
+]
